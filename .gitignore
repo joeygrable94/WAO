@@ -1,0 +1,11 @@
+
+__pycache__
+__init__.pyc
+
+.DS_Store
+
+WAOassets/data/*
+WAOassets/geotagged/*
+WAOassets/ignored/*
+WAOassets/optimized/*
+WAOassets/original/*

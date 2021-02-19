@@ -1,0 +1,13 @@
+
+WAOWindow (View)
+WAODirector (Controller)
+
+	FileFactory (file and folder CRUD)
+
+	AssetFactory (states: optimized, geotagged)
+	 - ImageBuilder
+	 - VideoBuilder
+	 - FileBuilder
+
+	GeoTagFactory
+	 - ExifProto

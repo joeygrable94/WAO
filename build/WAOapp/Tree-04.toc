@@ -1,0 +1,7 @@
+('/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pyobjc_framework_Cocoa-6.2.2-py3.8-macosx-10.9-x86_64.egg',
+ None,
+ {'EGG-INFO', '*.so', '*.py', '*.cpython-38-darwin.so', '*.pyc', '*.abi3.so'},
+ 'DATA',
+ [('pyobjc_framework_Cocoa-6.2.2-py3.8-nspkg.pth',
+   '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pyobjc_framework_Cocoa-6.2.2-py3.8-macosx-10.9-x86_64.egg/pyobjc_framework_Cocoa-6.2.2-py3.8-nspkg.pth',
+   'DATA')])
